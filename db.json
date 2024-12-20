@@ -1,0 +1,65 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Mishal",
+      "email": "admin@gmail.com",
+      "password": "Mishal123",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "name": "jinja",
+      "email": "ninja@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "name": "joshua",
+      "email": "joshua@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "hisham",
+      "email": "hisham@gmail.com",
+      "status": "2"
+    },
+    {
+      "id": "5",
+      "name": "humaira",
+      "email": "humaira@gmail.com",
+      "status": "2"
+    },
+    {
+      "id": "9",
+      "name": "jessica",
+      "email": "jes@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "6",
+      "name": "morgan",
+      "email": "morgan@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "8",
+      "name": "lorence",
+      "email": "loren@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "7",
+      "name": "remo",
+      "email": "remo@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "name": "jinjo",
+      "email": "jino@gmail.com",
+      "status": "2"
+    }
+  ]
+}
